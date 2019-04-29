@@ -7,7 +7,7 @@ address: "Memorial Union, 800 Langdon St, Madison, WI 53706"      # full street 
 country: "us"      # lowercase two-letter ISO country code such as "fr" (see https://en.wikipedia.org/wiki/ISO_3166-1#Current_codes)
 language: "en"     # lowercase two-letter ISO language code such as "fr" (see https://en.wikipedia.org/wiki/List_of_ISO_639-1_codes)
 latlng: "43.075809,-89.400131"       # decimal latitude and longitude of workshop venue (e.g., "41.7901128,-87.6007318" - use https://www.latlong.net/)
-humandate: "July 11-23, 2019"    # human-readable dates for the workshop (e.g., "Feb 17-18, 2020")
+humandate: "July 11-12, 2019"    # human-readable dates for the workshop (e.g., "Feb 17-18, 2020")
 humantime: "8:30-4:30"    # human-readable times for the workshop (e.g., "9:00 am - 4:30 pm")
 startdate: 2019-07-11      # machine-readable start date for the workshop in YYYY-MM-DD format like 2015-01-01
 enddate: 2019-07-12        # machine-readable end date for the workshop in YYYY-MM-DD format like 2015-01-02
