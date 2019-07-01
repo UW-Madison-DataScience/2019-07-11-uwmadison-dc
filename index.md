@@ -368,3 +368,5 @@ please preview your site before committing, and make sure to run
   </div>
 </div> {% comment %} End of 'R' section. {% endcomment %}
 
+For the Geospatial Data Carpentry Workshop, you will **also need** to follow the directions <a href="https://datacarpentry.org/geospatial-workshop/setup.html"> here </a> (Option A) for the geospatial specific software.
+
